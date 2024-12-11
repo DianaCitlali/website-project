@@ -1,0 +1,23 @@
+body{
+    background-color: #eb5ae6;
+    color: #452632
+    
+}
+
+
+.image1{
+    width: 300px;
+    border-radius: 50px;
+}
+
+.image2{
+    width: 200px;
+    border-radius: 50px;
+    border: solid;
+    color: black;
+}
+
+.imagenes{
+    text-align: center;
+
+}
